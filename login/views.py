@@ -155,3 +155,6 @@ def user_confirm(request):
         message = '成功确认，请使用账户登录!'
         return render(request, 'login/confirm.html', locals())
 
+
+def init(request):
+    return redirect('/login/')
