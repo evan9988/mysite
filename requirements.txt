@@ -8,7 +8,7 @@ cffi==1.11.5
 chardet==3.0.4
 Click==7.0
 cryptography==2.4.2
-Django==2.1.5
+Django==2.2.10
 django-haystack==2.8.1
 django-pure-pagination==0.3.0
 django-ranged-response==0.2.0
